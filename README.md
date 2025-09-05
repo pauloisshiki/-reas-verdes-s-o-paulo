@@ -20,9 +20,9 @@ O objetivo é explorar como parques, praças, florestas urbanas e outras áreas 
 ---
 
 ## 📂 Estrutura do Repositório
-/data → arquivos GeoJSON (parques, áreas verdes)
-/maps → mapa interativo pronto em HTML
-README.md → documentação do projeto
+- /data → arquivos GeoJSON (parques, áreas verdes)
+- /maps → mapa interativo pronto em HTML
+- README.md → documentação do projeto
 
 ---
 
